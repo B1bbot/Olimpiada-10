@@ -1,0 +1,15 @@
+C:\Users\artem\Desktop\Работа и учеба\Школа\Учеба\Информатика\Олимпиады\Школьный этап\1 вариант\1 var\1 var\bin\Debug\net6.0\1 var.exe
+C:\Users\artem\Desktop\Работа и учеба\Школа\Учеба\Информатика\Олимпиады\Школьный этап\1 вариант\1 var\1 var\bin\Debug\net6.0\1 var.deps.json
+C:\Users\artem\Desktop\Работа и учеба\Школа\Учеба\Информатика\Олимпиады\Школьный этап\1 вариант\1 var\1 var\bin\Debug\net6.0\1 var.runtimeconfig.json
+C:\Users\artem\Desktop\Работа и учеба\Школа\Учеба\Информатика\Олимпиады\Школьный этап\1 вариант\1 var\1 var\bin\Debug\net6.0\1 var.dll
+C:\Users\artem\Desktop\Работа и учеба\Школа\Учеба\Информатика\Олимпиады\Школьный этап\1 вариант\1 var\1 var\bin\Debug\net6.0\1 var.pdb
+C:\Users\artem\Desktop\Работа и учеба\Школа\Учеба\Информатика\Олимпиады\Школьный этап\1 вариант\1 var\1 var\obj\Debug\net6.0\1 var.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\Работа и учеба\Школа\Учеба\Информатика\Олимпиады\Школьный этап\1 вариант\1 var\1 var\obj\Debug\net6.0\1 var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\Desktop\Работа и учеба\Школа\Учеба\Информатика\Олимпиады\Школьный этап\1 вариант\1 var\1 var\obj\Debug\net6.0\1 var.AssemblyInfoInputs.cache
+C:\Users\artem\Desktop\Работа и учеба\Школа\Учеба\Информатика\Олимпиады\Школьный этап\1 вариант\1 var\1 var\obj\Debug\net6.0\1 var.AssemblyInfo.cs
+C:\Users\artem\Desktop\Работа и учеба\Школа\Учеба\Информатика\Олимпиады\Школьный этап\1 вариант\1 var\1 var\obj\Debug\net6.0\1 var.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Работа и учеба\Школа\Учеба\Информатика\Олимпиады\Школьный этап\1 вариант\1 var\1 var\obj\Debug\net6.0\1 var.dll
+C:\Users\artem\Desktop\Работа и учеба\Школа\Учеба\Информатика\Олимпиады\Школьный этап\1 вариант\1 var\1 var\obj\Debug\net6.0\refint\1 var.dll
+C:\Users\artem\Desktop\Работа и учеба\Школа\Учеба\Информатика\Олимпиады\Школьный этап\1 вариант\1 var\1 var\obj\Debug\net6.0\1 var.pdb
+C:\Users\artem\Desktop\Работа и учеба\Школа\Учеба\Информатика\Олимпиады\Школьный этап\1 вариант\1 var\1 var\obj\Debug\net6.0\1 var.genruntimeconfig.cache
+C:\Users\artem\Desktop\Работа и учеба\Школа\Учеба\Информатика\Олимпиады\Школьный этап\1 вариант\1 var\1 var\obj\Debug\net6.0\ref\1 var.dll
