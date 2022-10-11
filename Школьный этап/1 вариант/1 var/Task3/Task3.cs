@@ -3,7 +3,7 @@
     public int h, v;
 }
 
-class Test
+class Task3
 {
     static void Main(string[] args)
     {
